@@ -1,4 +1,3 @@
-# starbucks
 
 <h1 align="center">Projeto Web Starbucks</h1>
 
